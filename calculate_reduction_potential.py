@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Script published by Hochschule Mannheim - Mannheim University of Applied Sciences - Germany: https://www.hs-mannheim.de/
 """
 A module that contains all relevant functions for the calculation of the 
 CO2 and cost reduction potential of energy flexibility measures.

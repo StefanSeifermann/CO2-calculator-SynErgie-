@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Script published by Hochschule Mannheim - Mannheim University of Applied Sciences - Germany: https://www.hs-mannheim.de/
 """
 A module used to read the data required for the calculation and to store the 
 results. 
