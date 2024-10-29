@@ -1,6 +1,6 @@
 # CO2 and Cost Reduction Calculator for Flexibility Measures
 
-This CO2 calculator library was published within the Kopernikus project [SynErgie](https://synergie-projekt.de/)
+This CO2 calculator library was published within the Kopernikus project [SynErgie](https://synergie-projekt.de/).
 This calculator allows the user to compute the CO2 and cost reduction potential of energy flexibility measures. The user can decide to calculate the reduction potential with regard to the maximum CO2 reduction and/or the maximum cost reduction. Furthermore, the user has the option to calculate the reduction potential for a combination of load reduction and increase measures, when the parameters of the respective flexibility measures allow so.
 
 ## Dependencies
