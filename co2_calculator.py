@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Script published by Hochschule Mannheim - Mannheim University of Applied Sciences - Germany: https://www.hs-mannheim.de/
 """CO2 and Cost Reduction Calculator for Flexibility Measures
 
 This calculator allows the user to compute the CO2 and cost reduction potential
@@ -55,10 +56,12 @@ def main(results_file:str,year:int=2023,combination:bool=False,max_co2:bool=True
     
     print("\nDone.")
     
-
+    
 if __name__ == "__main__":
     if args.filename == "":
-        main("Test_14102024")
+        #TODO: add required parameters in the brackets when executing in an IDE
+        main()
     else:
+        #code when executing via the command line
         main(args.filename,args.year,args.combination,args.max_co2,args.max_cost)
  

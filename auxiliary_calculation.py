@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Script published by Hochschule Mannheim - Mannheim University of Applied Sciences - Germany: https://www.hs-mannheim.de/
 """
 A module that contains auxillary functions that support the processing of the 
 read in input data for the calculation. 
