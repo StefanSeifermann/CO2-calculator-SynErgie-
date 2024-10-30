@@ -56,6 +56,12 @@ The annual reduction potential is aggregated based on the retrieval frequency *k
 - Average electricity prices [€/MWh] for the target years 2019 - 2023 were calculated from the quarter-hourly time series of electricity prices downloaded from Energy-Charts[^3].
 
 
+## Authors and acknowledgments
+Hochschule Mannheim - Mannheim University of Applied Sciences - Germany (https://www.hs-mannheim.de/)
+
+This work, developed as part of the Kopernikus project SynErgie, was supported by the German Federal Ministry for Education
+and Research and the project executing organization Jülich [03SFK3U2-3].
+
 
 ## References
 
@@ -70,8 +76,3 @@ The annual reduction potential is aggregated based on the retrieval frequency *k
 [^5]: [TenneT, FfE: CO2-Monitor](https://co2-monitor.org/)
 
 
-## Authors and acknowledgments
-Hochschule Mannheim - Mannheim University of Applied Sciences - Germany (https://www.hs-mannheim.de/)
-
-This work, developed as part of the Kopernikus project SynErgie, was supported by the German Federal Ministry for Education
-and Research and the project executing organization Jülich [03SFK3U2-3].
