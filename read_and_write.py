@@ -26,6 +26,7 @@ save_to_csv :
 import pandas as pd
 from auxiliary_calculation import add_row
 from math import isnan
+import os
 
 def read_input_data(year:int) -> (pd.DataFrame,pd.DataFrame,tuple) :
     
@@ -62,6 +63,7 @@ def read_input_data(year:int) -> (pd.DataFrame,pd.DataFrame,tuple) :
     df_dsm = read_and_adapt_dsm('data/dsm_rohdaten.csv')
     
     #Write the adapted data of flexibility measures in a csv and save it 
+    os.makedirs('output', exist_ok=True)
     save_to_csv(df_dsm,'output/adapted_dsm.csv')
 
     return df_price_emf, df_dsm, avg_price_emf
@@ -214,6 +216,7 @@ def save_to_csv(df_dsm:pd.DataFrame, path:str) -> None :
     
     
     
+
 
 
 
